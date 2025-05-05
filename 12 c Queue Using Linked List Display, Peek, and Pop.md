@@ -1,0 +1,41 @@
+# 12 c Queue Using Linked List – Display, Peek, and Pop
+
+## Aim
+
+To write a Python program to insert 3 elements into a queue and display each element with its index.
+
+## Algorithm
+
+1. Start  
+2. Create a queue  
+3. Append elements to the queue  
+4. Use a loop to print each element and its index  
+5. Stop
+
+## Program
+
+```python
+## Reg no:212223020020
+## Name: Pradaksha V
+
+queue = []
+
+# Enqueue elements into the queue
+queue.append("a")
+queue.append("b")
+queue.append("c")
+
+# Display the initial queue
+print("Initial queue:", queue)
+
+# Display index and element
+for i in range(len(queue)):
+    print(i, queue[i])
+```
+
+## OUTPUT
+
+![Screenshot 2025-05-05 220117](https://github.com/user-attachments/assets/dc8e6a9c-9d53-4e36-a687-2ce6adfbec92)
+
+## RESULT
+Thus, the code is implemented and executed successfully.
