@@ -1,4 +1,4 @@
-# Ex.No 12.b Stack Using Linked List – Push and Index Display
+# Ex.No 12.e Stack Using Linked List – Push and Index Display
 
 ## Aim
 
